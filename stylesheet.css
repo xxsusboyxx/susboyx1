@@ -50,7 +50,7 @@ img{
 .main_body{    
     height:inherit;
     overflow-y: scroll;
-    padding: 80 0 0 0;
+    padding-top: 80px;
     /*background-image: url(./images/view_img.jpg);
     background-size: cover;
     background-position:center;*/
