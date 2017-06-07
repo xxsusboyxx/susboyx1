@@ -142,6 +142,7 @@ img{
 .footer img{
     display: block;
     bottom:0;
+    height: 150px;
 }
 
 .footer p{
